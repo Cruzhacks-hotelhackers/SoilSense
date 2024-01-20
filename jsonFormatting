@@ -1,0 +1,24 @@
+field_data {
+    24x24 elements
+    sector id
+
+    watering amount
+    current water
+    plant health
+    ?mineral health
+}
+
+predicted_weather {
+    time id
+
+    temperature
+    precipitation
+}
+
+actual_weather {
+    time id
+
+    temperature
+    precipitation
+}
+
