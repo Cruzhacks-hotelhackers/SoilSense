@@ -59,7 +59,7 @@ function rgbToHex(r, g, b) {
   return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
 }
 
-const jsonFileUrl = 'server.json';
+const jsonFileUrl = 'sector.json';
 
 fetch(jsonFileUrl)
   .then(response => {
@@ -75,8 +75,9 @@ fetch(jsonFileUrl)
     const container = document.querySelector('.grid-container');
 
     for(let i = 0; i < 574; i++) {
+      console.log("asdf");
       const gridItem = document.createElement('div');
-            gridItem.className = 'grid-item bg-#'+rgbToHex(,data.sectors[i].past_precipitation[i],0);
+            gridItem.className = 'grid-item bg-#'+rgbToHex(data.sectors[i].plantHealth[i] * 2.55,data.sectors[i].plantHealth[i] * 2.55,0);
             gridItem.id = `grid-item-${i}`;
             container.appendChild(gridItem);
     }
