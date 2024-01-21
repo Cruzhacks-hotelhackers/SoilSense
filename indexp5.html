@@ -22,8 +22,6 @@
   .grid-item {
       width: 20px; /* Adjust the width of each box as needed */
       height: 20px; /* Adjust the height of each box as needed */
-      background-color: lightgray; /* Set the background color of the boxes */
-      border: 1px solid #ccc; /* Add a border to the boxes */
   }
 </style>
 </head>
@@ -36,7 +34,6 @@
         <li><a href = index.html><button class="p-3">Dashboard</button></a></li>
         <li><a href = indexp2.html><button class="p-3">Projections</button></a></li>
         <li><a href = indexp3.html><button class="p-3">History</button></a></li>
-        <li><a href = indexp4.html><button class="p-3">Water Usage</button></a></li>
         <li class="active p-3">Sectors</li>
         <li><a href = indexp6.html><button class="p-3">Yield</button></a></li>
       </ul>
@@ -48,16 +45,20 @@
     <div class="grid-container">
       <!-- Generate the 24x24 grid -->
       <!-- Repeat the following line 576 times (24x24) -->
-      <div class="grid-item" id="grid-item-1"></div>
-<div class="grid-item" id="grid-item-2"></div>
+      <div class="grid-item" id="grid-item-0"></div>
       <!-- End of repetition -->
       <script>
-        function componentToHex(c) {
-  var hex = c.toString(16);
-  return hex.length == 1 ? "0" + hex : hex;
-}
+    const container = document.querySelector('.grid-container');
 
-const rgbToHex(r, g, b)  => {
+for(let i = 1; i < 576; i++) {
+      const gridItem = document.createElement('div');
+
+        gridItem.className = 'grid-item';
+        gridItem.id = `grid-item-${i}`;
+        container.appendChild(gridItem);
+    }
+
+const rgbToHex = (r, g, b)  => {
   return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
 }
 
@@ -74,15 +75,12 @@ fetch(jsonFileUrl)
   })
   .then(data => {
     // Here, 'data' contains the parsed JSON data
-    const container = document.querySelector('.grid-container');
-    console.log(data);
-    for(let i = 0; i < 574; i++) {
-      console.log("asdf");
-      const gridItem = document.createElement('div');
-      console.log(rgbToHex(data.sectorInfo[i].plantHealth * 2.55,data.sectorInfo[i].plantHealth * 2.55,0));
-            gridItem.className = 'grid-item bg-#'+rgbToHex(data.sectorInfo[i].plantHealth * 2.55,data.sectorInfo[i].plantHealth * 2.55,0);
-            gridItem.id = `grid-item-${i}`;
-            container.appendChild(gridItem);
+    for(let i = 0; i < 576; i++) {
+      const gridItem = document.getElementById('grid-item-'+i);
+    
+      const hexColor = rgbToHex((100-data.sectorInfo[i].plantHealth)*2.55, data.sectorInfo[i].plantHealth * 2.55, 0);
+
+        gridItem.style.backgroundColor = `${hexColor}`;
     }
     // You can now work with the JSON data
   })
@@ -95,3 +93,6 @@ fetch(jsonFileUrl)
 </div>
 </body>
 </html>
+
+a = 100, red = 0
+(100-a)/100 = x
