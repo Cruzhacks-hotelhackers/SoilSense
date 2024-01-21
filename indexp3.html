@@ -14,14 +14,9 @@
   </style>
 
 <script type="text/javascript">
-  const previous_data = 
-  '{"past_precipitation": [1.32, 0.75, 2.98, 0.43, 2.11, 1.68, 0.25, 3.00, 0.89, 2.57,'+
-'1.20, 2.77, 0.62, 2.35, 0.47, 1.93, 2.11, 0.75, 1.84, 0.31,'+
-'2.22, 1.47, 0.04, 2.67, 0.98, 1.55, 2.89, 0.11, 1.73, 2.40,'+
-'0.68, 1.11, 2.02, 0.36, 2.68, 0.84, 1.25, 2.46, 0.20, 1.62,'+
-'2.15, 0.53, 1.36, 2.75, 0.08, 1.99, 0.62, 2.33, 0.95, 1.68]}';
+const jsonFileUrl = 'data.json';
 
-  const parsed = JSON.parse(previous_data);
+// Use the fetch API to make an HTTP request to the JSON file
 
   window.onload = function () {
     var chart = new CanvasJS.Chart("chartContainer",
@@ -38,9 +33,26 @@
       ]
     });
 
-    for(let i = 0; i < 50; i++) {
-    chart.options.data[0].dataPoints.push({ x: i, y: parsed.past_precipitation[i] });
+    fetch(jsonFileUrl)
+  .then(response => {
+    // Check if the response status is OK
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
     }
+    // Parse the response as JSON
+    return response.json();
+  })
+  .then(data => {
+    // Here, 'data' contains the parsed JSON data
+    for(let i = 0; i < 50; i++) {
+      console.log("asdf");
+      chart.options.data[0].dataPoints.push({ x: i, y: data.past_precipitation[i] });
+    }
+    // You can now work with the JSON data
+  })
+  .catch(error => {
+    console.error('There was a problem with the fetch operation:', error);
+  });
     chart.render();
   }
   </script>
