@@ -8,7 +8,22 @@
       background-color: #1A1C23; /* Active item background */
       border-left: 4px solid #5F9EA0; /* Active item left border */
     }
-  </style>
+  /* Apply styles to the grid container */
+  .grid-container {
+      display: grid;
+      grid-template-columns: repeat(24, 20px); /* Create 24 columns, each 40px wide */
+      grid-gap: 2px; /* Adjust the gap between boxes as needed */
+      width: 100%; /* Make sure the grid takes the full width of the container */
+  }
+
+  /* Apply styles to each grid item (box) */
+  .grid-item {
+      width: 20px; /* Adjust the width of each box as needed */
+      height: 20px; /* Adjust the height of each box as needed */
+      background-color: lightgray; /* Set the background color of the boxes */
+      border: 1px solid #ccc; /* Add a border to the boxes */
+  }
+</style>
 </head>
 <body class="bg-gray-900 text-white font-roboto">
   <div class="flex h-screen">
@@ -28,6 +43,51 @@
 <div class="flex-1 p-10">
     <h2 class="text-5xl font-bold">Sectors</h2>
     <!-- Content will go here -->
+    <div class="grid-container">
+      <!-- Generate the 24x24 grid -->
+      <!-- Repeat the following line 576 times (24x24) -->
+      <div class="grid-item" id="grid-item-1"></div>
+<div class="grid-item" id="grid-item-2"></div>
+      <!-- End of repetition -->
+      <script>
+        function componentToHex(c) {
+  var hex = c.toString(16);
+  return hex.length == 1 ? "0" + hex : hex;
+}
+
+function rgbToHex(r, g, b) {
+  return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
+}
+
+const jsonFileUrl = 'server.json';
+
+fetch(jsonFileUrl)
+  .then(response => {
+    // Check if the response status is OK
+    if (!response.ok) {
+      throw new Error('Network response was not ok');
+    }
+    // Parse the response as JSON
+    return response.json();
+  })
+  .then(data => {
+    // Here, 'data' contains the parsed JSON data
+    const container = document.querySelector('.grid-container');
+
+    for(let i = 0; i < 574; i++) {
+      const gridItem = document.createElement('div');
+            gridItem.className = 'grid-item bg-#'+rgbToHex(,data.sectors[i].past_precipitation[i],0);
+            gridItem.id = `grid-item-${i}`;
+            container.appendChild(gridItem);
+    }
+    chart.render();
+    // You can now work with the JSON data
+  })
+  .catch(error => {
+    console.error('There was a problem with the fetch operation:', error);
+  });
+    </script>
+  </div>
   </div>
 </div>
 </body>
