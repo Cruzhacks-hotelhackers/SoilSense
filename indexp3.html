@@ -2,6 +2,9 @@
 <head>
   <title>Soil Sense Dashboard</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script type="text/javascript"></script>
+  <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+  <script src="data.json"></script>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
   <style>
     .active {
@@ -9,6 +12,44 @@
       border-left: 4px solid #5F9EA0; /* Active item left border */
     }
   </style>
+
+<script type="text/javascript">
+
+
+
+  window.onload = function () {
+    var chart = new CanvasJS.Chart("chartContainer",
+    {
+
+      title:{
+      text: "Earthquakes - per month"
+      },
+       data: [
+      {
+        type: "line",
+
+        dataPoints: [
+        { x: new Date(2012, 00, 1), y: 450 },
+        { x: new Date(2012, 01, 1), y: 414 },
+        { x: new Date(2012, 02, 1), y: 520 },
+        { x: new Date(2012, 03, 1), y: 460 },
+        { x: new Date(2012, 04, 1), y: 450 },
+        { x: new Date(2012, 05, 1), y: 500 },
+        { x: new Date(2012, 06, 1), y: 480 },
+        { x: new Date(2012, 07, 1), y: 480 },
+        { x: new Date(2012, 08, 1), y: 410 },
+        { x: new Date(2012, 09, 1), y: 500 },
+        { x: new Date(2012, 10, 1), y: 480 },
+        { x: new Date(2012, 11, 1), y: 510 }
+        ]
+      }
+      ]
+    });
+
+    chart.render();
+  }
+  </script>
+  
 </head>
 <body class="bg-gray-900 text-white font-roboto">
   <div class="flex h-screen">
@@ -27,7 +68,9 @@
 <!-- Main content -->
 <div class="flex-1 p-10">
     <h2 class="text-5xl font-bold">History</h2>
+    <br><br>
     <!-- Content will go here -->
+    <div id="chartContainer" style="height: 300px; width: 100%;"></div></body>
   </div>
 </div>
 </body>
