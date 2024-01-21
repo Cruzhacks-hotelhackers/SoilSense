@@ -45,15 +45,14 @@ const jsonFileUrl = 'data.json';
   .then(data => {
     // Here, 'data' contains the parsed JSON data
     for(let i = 0; i < 50; i++) {
-      console.log("asdf");
       chart.options.data[0].dataPoints.push({ x: i, y: data.past_precipitation[i] });
     }
+    chart.render();
     // You can now work with the JSON data
   })
   .catch(error => {
     console.error('There was a problem with the fetch operation:', error);
   });
-    chart.render();
   }
   </script>
   
