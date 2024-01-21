@@ -2,13 +2,57 @@
 <head>
   <title>Soil Sense Dashboard</title>
   <script src="https://cdn.tailwindcss.com"></script>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+  <script type="text/javascript"></script>
+  <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+  <script src="data.json"></script>  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
   <style>
     .active {
       background-color: #1A1C23; /* Active item background */
       border-left: 4px solid #5F9EA0; /* Active item left border */
     }
   </style>
+  <script type="text/javascript">
+    const jsonFileUrl = 'data.json';
+    
+    // Use the fetch API to make an HTTP request to the JSON file
+    
+      window.onload = function () {
+        var chart = new CanvasJS.Chart("chartContainer",
+        {
+          title: {
+          text: "Earthquakes - per month"
+          },
+          backgroundColor: "#393c47",
+           data: [
+          {
+            type: "line",
+            dataPoints: []
+          }
+          ]
+        });
+    
+        fetch(jsonFileUrl)
+      .then(response => {
+        // Check if the response status is OK
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        // Parse the response as JSON
+        return response.json();
+      })
+      .then(data => {
+        // Here, 'data' contains the parsed JSON data
+        for(let i = 0; i < 50; i++) {
+          chart.options.data[0].dataPoints.push({ x: i, y: data.predicted_precipitation[i] });
+        }
+        chart.render();
+        // You can now work with the JSON data
+      })
+      .catch(error => {
+        console.error('There was a problem with the fetch operation:', error);
+      });
+      }
+      </script>
 </head>
 <body class="bg-gray-900 text-white font-roboto">
   <div class="flex h-screen">
@@ -25,8 +69,10 @@
     </div>
 <!-- Main content -->
 <div class="flex-1 p-10">
-    <h2 class="text-5xl font-bold">Projects</h2>
-    <!-- Content will go here -->
+    <h2 class="text-5xl font-bold mb-4">Projections</h2>
+    <!-- Content will go here -->    
+    <div id="chartContainer" style="height: 300px; width: 100%;"></div></body>
+
   </div>
 </div>
 </body>

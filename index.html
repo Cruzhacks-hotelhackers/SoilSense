@@ -9,6 +9,18 @@
       background-color: #1A1C23; /* Active item background */
       border-left: 4px solid #5F9EA0; /* Active item left border */
     }
+    .grid-container {
+      display: grid;
+      grid-template-columns: repeat(24, 20px); /* Create 24 columns, each 40px wide */
+      grid-gap: 2px; /* Adjust the gap between boxes as needed */
+      width: 100%; /* Make sure the grid takes the full width of the container */
+  }
+
+  /* Apply styles to each grid item (box) */
+  .grid-item {
+      width: 20px; /* Adjust the width of each box as needed */
+      height: 20px; /* Adjust the height of each box as needed */
+  }
   </style>
 </head>
 <body class="bg-gray-900 text-white font-roboto">
@@ -26,8 +38,58 @@
     </div>
 <!-- Main content -->
 <div class="flex-1 p-10">
-    <h2 class="text-5xl font-bold">Dashboard</h2>
+    <h2 class="text-5xl font-bold mb-3">Dashboard</h2>
+    <h3 class = "text-3xl font-thin mb-2">At Risk:</h3>
     <!-- Content will go here -->
+    <div class="grid-container">
+      <!-- Generate the 24x24 grid -->
+      <!-- Repeat the following line 576 times (24x24) -->
+            
+      <script>
+        
+        const container = document.querySelector('.grid-container');
+        
+        var x = [];
+    
+    const rgbToHex = (r, g, b)  => {
+      return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
+    }
+    
+    const jsonFileUrl = 'sectors.json';
+    
+    fetch(jsonFileUrl)
+      .then(response => {
+        // Check if the response status is OK
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        // Parse the response as JSON
+        return response.json();
+      })
+      .then(data => {
+        // Here, 'data' contains the parsed JSON data
+        for(let i = 0; i < 576; i++) {
+          const gridItem = document.createElement('div');
+        
+    gridItem.className = 'grid-item';
+    gridItem.id = `grid-item-${i}`;
+    container.appendChild(gridItem);
+          if((100-data.sectorInfo[i].plantHealth)>50) {
+            const hexColor = rgbToHex((100-data.sectorInfo[i].plantHealth)*2.55, data.sectorInfo[i].plantHealth * 2.55, 0);
+    
+            gridItem.style.backgroundColor = `${hexColor}`;
+          }
+          else {
+            const hexColor = rgbToHex(0,0, 0);
+
+          }
+        }
+        // You can now work with the JSON data
+      })
+      // .catch(error => {
+      //   console.error('There was a problem with the fetch operation:', error);
+      // });
+        </script>
   </div>
 </div>
 </body>
