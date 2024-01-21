@@ -19,12 +19,19 @@
       window.onload = function () {
         var chart = new CanvasJS.Chart("chartContainer",
         {
+          axisY:{
+        title:"Average Water To Be Used (Liters)",
+      },
+      axisX:{
+        title:"Weeks",
+      },
           title: {
-          text: "Earthquakes - per month"
+          text: "Precipitation Predictions"
           },
-          backgroundColor: "#393c47",
+          backgroundColor: "#C0DFF3",
            data: [
           {
+            lineColor: "teal",
             type: "line",
             dataPoints: []
           }

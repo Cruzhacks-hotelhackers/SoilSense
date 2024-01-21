@@ -21,13 +21,22 @@ const jsonFileUrl = 'data.json';
   window.onload = function () {
     var chart = new CanvasJS.Chart("chartContainer",
     {
-      title: {
-      text: "Earthquakes - per month"
+      axisY:{
+        title:"Average Water Used (Liters)",
       },
-      backgroundColor: "#393c47",
+      axisX:{
+        title:"Weeks",
+      },
+      title: {
+      text: "Average Water Usage History"
+
+      },
+      backgroundColor: "#C0DFF3",
        data: [
       {
+
         type: "line",
+        lineColor: "teal",
         dataPoints: []
       }
       ]
