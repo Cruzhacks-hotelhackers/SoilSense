@@ -2,6 +2,8 @@
 <head>
   <title>Soil Sense Dashboard</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="sectors.json"></script>
+  <script type="text/javascript"></script>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
   <style>
     .active {
@@ -55,11 +57,11 @@
   return hex.length == 1 ? "0" + hex : hex;
 }
 
-function rgbToHex(r, g, b) {
-  return "#" + componentToHex(r) + componentToHex(g) + componentToHex(b);
+const rgbToHex(r, g, b)  => {
+  return "#" + ((1 << 24) + (r << 16) + (g << 8) + b).toString(16).slice(1);
 }
 
-const jsonFileUrl = 'sector.json';
+const jsonFileUrl = 'sectors.json';
 
 fetch(jsonFileUrl)
   .then(response => {
@@ -73,20 +75,20 @@ fetch(jsonFileUrl)
   .then(data => {
     // Here, 'data' contains the parsed JSON data
     const container = document.querySelector('.grid-container');
-
+    console.log(data);
     for(let i = 0; i < 574; i++) {
       console.log("asdf");
       const gridItem = document.createElement('div');
-            gridItem.className = 'grid-item bg-#'+rgbToHex(data.sectors[i].plantHealth[i] * 2.55,data.sectors[i].plantHealth[i] * 2.55,0);
+      console.log(rgbToHex(data.sectorInfo[i].plantHealth * 2.55,data.sectorInfo[i].plantHealth * 2.55,0));
+            gridItem.className = 'grid-item bg-#'+rgbToHex(data.sectorInfo[i].plantHealth * 2.55,data.sectorInfo[i].plantHealth * 2.55,0);
             gridItem.id = `grid-item-${i}`;
             container.appendChild(gridItem);
     }
-    chart.render();
     // You can now work with the JSON data
   })
-  .catch(error => {
-    console.error('There was a problem with the fetch operation:', error);
-  });
+  // .catch(error => {
+  //   console.error('There was a problem with the fetch operation:', error);
+  // });
     </script>
   </div>
   </div>
