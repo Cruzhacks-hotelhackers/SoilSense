@@ -14,38 +14,32 @@
   </style>
 
 <script type="text/javascript">
+  const previous_data = 
+  '{"past_precipitation": [1.32, 0.75, 2.98, 0.43, 2.11, 1.68, 0.25, 3.00, 0.89, 2.57,'+
+'1.20, 2.77, 0.62, 2.35, 0.47, 1.93, 2.11, 0.75, 1.84, 0.31,'+
+'2.22, 1.47, 0.04, 2.67, 0.98, 1.55, 2.89, 0.11, 1.73, 2.40,'+
+'0.68, 1.11, 2.02, 0.36, 2.68, 0.84, 1.25, 2.46, 0.20, 1.62,'+
+'2.15, 0.53, 1.36, 2.75, 0.08, 1.99, 0.62, 2.33, 0.95, 1.68]}';
 
-
+  const parsed = JSON.parse(previous_data);
 
   window.onload = function () {
     var chart = new CanvasJS.Chart("chartContainer",
     {
-
-      title:{
+      title: {
       text: "Earthquakes - per month"
       },
        data: [
       {
         type: "line",
-
-        dataPoints: [
-        { x: new Date(2012, 00, 1), y: 450 },
-        { x: new Date(2012, 01, 1), y: 414 },
-        { x: new Date(2012, 02, 1), y: 520 },
-        { x: new Date(2012, 03, 1), y: 460 },
-        { x: new Date(2012, 04, 1), y: 450 },
-        { x: new Date(2012, 05, 1), y: 500 },
-        { x: new Date(2012, 06, 1), y: 480 },
-        { x: new Date(2012, 07, 1), y: 480 },
-        { x: new Date(2012, 08, 1), y: 410 },
-        { x: new Date(2012, 09, 1), y: 500 },
-        { x: new Date(2012, 10, 1), y: 480 },
-        { x: new Date(2012, 11, 1), y: 510 }
-        ]
+        dataPoints: []
       }
       ]
     });
 
+    for(let i = 0; i < 50; i++) {
+    chart.options.data[0].dataPoints.push({ x: i, y: parsed.past_precipitation[i] });
+    }
     chart.render();
   }
   </script>
