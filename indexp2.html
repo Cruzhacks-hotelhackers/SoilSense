@@ -3,6 +3,7 @@
   <title>Soil Sense Dashboard</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script type="text/javascript"></script>
+  <script src="/js/index.mjs"></script> 
   <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
   <script src="data.json"></script>  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
   <style>
@@ -19,12 +20,19 @@
       window.onload = function () {
         var chart = new CanvasJS.Chart("chartContainer",
         {
+          axisY:{
+        title:"Average Water To Be Used (Liters)",
+      },
+      axisX:{
+        title:"Weeks",
+      },
           title: {
-          text: "Earthquakes - per month"
+          text: "Precipitation Predictions"
           },
-          backgroundColor: "#393c47",
+          backgroundColor: "#C0DFF3",
            data: [
           {
+            lineColor: "teal",
             type: "line",
             dataPoints: []
           }
@@ -64,7 +72,6 @@
         <li class="active p-3">Projections</li>
         <li><a href = indexp3.html><button class="p-3">History</button></a></li>
         <li><a href = indexp5.html><button class="p-3">Sectors</button></a></li>
-        <li><a href = indexp6.html><button class="p-3">Yield</button></a></li>
       </ul>
     </div>
 <!-- Main content -->

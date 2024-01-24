@@ -1,3468 +1,2890 @@
 {
-	"ID": 0,
-	
     "sectorInfo": [
         {
             "sectorID": 0.0,
-            "plantHealth": 44.38200056506192,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.522991457808764
+            "plantHealth": 47.90010369147667,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 1.0,
-            "plantHealth": 46.31893774956344,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.87942255925476
+            "plantHealth": 52.5448929065005,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 2.0,
-            "plantHealth": 41.01219509751367,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.251070572708976,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 3.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 50.006809656736635,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 4.0,
-            "plantHealth": 48.66881875145838,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.85260007387355,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 5.0,
-            "plantHealth": 51.768622726184596,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.18288403955653,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 6.0,
-            "plantHealth": 59.365210989367526,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.38027124722772,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 7.0,
-            "plantHealth": 67.83580123436933,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.8014191444401,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 8.0,
-            "plantHealth": 65.53946988205595,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.1470788424385
+            "plantHealth": 47.10995160195417,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 9.0,
-            "plantHealth": 57.98516343119995,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 45.47133392208223,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 10.0,
-            "plantHealth": 49.995886923581146,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.9152918386728,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 11.0,
-            "plantHealth": 57.76735343061068,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.72307135976078
+            "plantHealth": 53.46595385152886,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 12.0,
-            "plantHealth": 57.65510804159689,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.16812721655396
+            "plantHealth": 41.652099777175174,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 13.0,
-            "plantHealth": 52.10489637751737,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.14483401122443,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 14.0,
-            "plantHealth": 50.099063120233446,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.93490053233432
+            "plantHealth": 52.13385243779604,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 15.0,
-            "plantHealth": 57.19343999219367,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.58993096798982,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 16.0,
-            "plantHealth": 59.38426591283305,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.96409204844853
+            "plantHealth": 51.679361169569766,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 17.0,
-            "plantHealth": 62.07125116904757,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 44.66845638358009,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 18.0,
-            "plantHealth": 59.112913075115856,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 46.76388773232228,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 19.0,
-            "plantHealth": 53.822339661921106,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.934825501038326,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 20.0,
-            "plantHealth": 57.633587369667794,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 54.10806810106473,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 21.0,
-            "plantHealth": 63.099055805315416,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 55.1735162158499,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 22.0,
-            "plantHealth": 60.45696048133637,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.03679152035119
+            "plantHealth": 48.10586914801324,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 23.0,
-            "plantHealth": 65.09171972018268,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.38744878880857
+            "plantHealth": 54.6232442436176,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 24.0,
-            "plantHealth": 45.20611151255414,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.80574913564188
+            "plantHealth": 49.585753568608,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 25.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.602341785528644
+            "plantHealth": 40.73004823583429,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 26.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 38.90271571859946,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 27.0,
-            "plantHealth": 43.979141140476564,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.417723129228044
+            "plantHealth": 51.743092999494515,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 28.0,
-            "plantHealth": 56.849958810896084,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.65511042496912,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 29.0,
-            "plantHealth": 42.49211725993555,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 54.694666752580545,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 30.0,
-            "plantHealth": 65.71050203051213,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 50.397626523945135,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 31.0,
-            "plantHealth": 64.96902607557021,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.04610535028122,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 32.0,
-            "plantHealth": 57.174083655169355,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 43.99438041084704,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 33.0,
-            "plantHealth": 54.31457018192312,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 46.31999316778201,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 34.0,
-            "plantHealth": 59.73580126727944,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.887491391112235
+            "plantHealth": 51.12994084054319,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 35.0,
-            "plantHealth": 59.00017242848565,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.832922872192796
+            "plantHealth": 50.10314059531211,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 36.0,
-            "plantHealth": 54.496927997574545,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.453632380485516
+            "plantHealth": 51.85197732567822,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 37.0,
-            "plantHealth": 57.35688443351699,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.65983251554495
+            "plantHealth": 48.97947655714021,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 38.0,
-            "plantHealth": 46.28265927640858,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.068086992187666
+            "plantHealth": 52.03251641304336,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 39.0,
-            "plantHealth": 48.148808562317015,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 43.11505845891244,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 40.0,
-            "plantHealth": 50.69097811588672,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 37.36910772353622,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 41.0,
-            "plantHealth": 57.26780775460445,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.089431013228236
+            "plantHealth": 46.52273198865367,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 42.0,
-            "plantHealth": 58.83182460816659,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.82154681421559,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 43.0,
-            "plantHealth": 44.99312324954495,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.21764105224712
+            "plantHealth": 46.9831076279748,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 44.0,
-            "plantHealth": 58.97019328159513,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.70606335147555,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 45.0,
-            "plantHealth": 66.73175402050273,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 44.54193433517809,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 46.0,
-            "plantHealth": 66.71470516291713,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.771619020229714,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 47.0,
-            "plantHealth": 59.12730066948741,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.33627756594706
+            "plantHealth": 51.905998748405196,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 48.0,
-            "plantHealth": 44.68858564508682,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.51319459835061,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 49.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.671950925199
+            "plantHealth": 43.16403602669286,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 50.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.00805133759248
+            "plantHealth": 45.27381846263164,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 51.0,
-            "plantHealth": 44.27579782426396,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.17744130098921
+            "plantHealth": 54.8590855988887,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 52.0,
-            "plantHealth": 66.09729604917004,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.92117081906333,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 53.0,
-            "plantHealth": 41.41039161626453,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.48685088852611
+            "plantHealth": 52.291581227005985,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 54.0,
-            "plantHealth": 66.01764343318871,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.66225244650893,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 55.0,
-            "plantHealth": 56.890154287300625,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.60303748649099
+            "plantHealth": 42.75986035854347,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 56.0,
-            "plantHealth": 60.34720297968308,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.205179290956615
+            "plantHealth": 49.004905068132594,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 57.0,
-            "plantHealth": 44.555064125360175,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 59.50487305574742,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 58.0,
-            "plantHealth": 66.79248351258748,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.55215923245186
+            "plantHealth": 50.911462080263796,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 59.0,
-            "plantHealth": 53.99195907535482,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.03507687668647
+            "plantHealth": 48.692798091650644,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 60.0,
-            "plantHealth": 47.865904473649394,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.45995566271846
+            "plantHealth": 52.131098257783584,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 61.0,
-            "plantHealth": 50.898056288982424,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.87782116915291,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 62.0,
-            "plantHealth": 49.26549886572383,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.67421632889508,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 63.0,
-            "plantHealth": 53.103060439492026,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 56.84060684996057,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 64.0,
-            "plantHealth": 46.28564275954236,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.0615115111246,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 65.0,
-            "plantHealth": 59.82252326713555,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.35811003184956
+            "plantHealth": 51.35425687916168,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 66.0,
-            "plantHealth": 52.53797371362811,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.51439251295358,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 67.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.777647190897255
+            "plantHealth": 46.69450027121922,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 68.0,
-            "plantHealth": 54.52819128759675,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.87965247538983
+            "plantHealth": 52.41544434707752,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 69.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.00380208544828,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 70.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.63481679752681,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 71.0,
-            "plantHealth": 62.423437191750985,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 56.82800709002572
+            "plantHealth": 46.58821567292728,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 72.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.4420137746884,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 73.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.335756749574564
+            "plantHealth": 41.8173584586646,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 74.0,
-            "plantHealth": 42.214737321433915,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.46590299798385
+            "plantHealth": 52.89627188662716,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 75.0,
-            "plantHealth": 41.417618226033056,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.9479792178184
+            "plantHealth": 46.27387094773411,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 76.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 59.704535771853365,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 77.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.543065281933835
+            "plantHealth": 48.64874003065481,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 78.0,
-            "plantHealth": 69.23911849497654,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.56444946834427
+            "plantHealth": 40.67115220022055,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 79.0,
-            "plantHealth": 63.29761196171141,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 55.486885193155544,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 80.0,
-            "plantHealth": 52.757324274978146,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 44.99824998305404,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 81.0,
-            "plantHealth": 42.08073807265754,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.03027474053434
+            "plantHealth": 51.66093084325361,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 82.0,
-            "plantHealth": 67.87074464957583,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.36305844419256
+            "plantHealth": 59.75672848647805,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 83.0,
-            "plantHealth": 54.64714825116788,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.47699713286881
+            "plantHealth": 44.93452075259376,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 84.0,
-            "plantHealth": 56.61903990740605,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.05358449355053,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 85.0,
-            "plantHealth": 43.31555103863862,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.06403300595629,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 86.0,
-            "plantHealth": 50.14082632044517,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.859356997155764
+            "plantHealth": 46.45375711795186,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 87.0,
-            "plantHealth": 51.27671264795294,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.125650746204954
+            "plantHealth": 54.90552083652383,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 88.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.860754414040876,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 89.0,
-            "plantHealth": 69.51893008127635,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.78684317356898
+            "plantHealth": 50.258384370105176,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 90.0,
-            "plantHealth": 50.8691110988243,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.26444176430203
+            "plantHealth": 45.380506599486495,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 91.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.80161265943805
+            "plantHealth": 55.94351225905967,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 92.0,
-            "plantHealth": 55.41758725866636,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.14175916105427
+            "plantHealth": 49.146513630024195,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 93.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 54.938356448311204,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 94.0,
-            "plantHealth": 64.55077576205115,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.07406274874231
+            "plantHealth": 56.28360902408668,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 95.0,
-            "plantHealth": 63.18100384377509,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.13349650363389
+            "plantHealth": 52.031965936164156,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 96.0,
-            "plantHealth": 47.04018639262222,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.42395653815094
+            "plantHealth": 48.993210660426506,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 97.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 67.01669855139824
+            "plantHealth": 49.97011694899848,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 98.0,
-            "plantHealth": 46.656808064155534,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.25913959080273
+            "plantHealth": 43.901963202343055,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 99.0,
-            "plantHealth": 46.06660863267416,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.527865736089964
+            "plantHealth": 49.216346356788584,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 100.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.75594166923196
+            "plantHealth": 43.933794577236185,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 101.0,
-            "plantHealth": 41.77630444587254,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 45.741091951249274,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 102.0,
-            "plantHealth": 60.51600407148641,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 57.1664274562652,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 103.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.52044988220011,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 104.0,
-            "plantHealth": 50.84585083787866,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.684763221681166
+            "plantHealth": 54.30590173266995,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 105.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.57943284483995
+            "plantHealth": 45.11659638375587,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 106.0,
-            "plantHealth": 62.17217265847333,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.25282175603306
+            "plantHealth": 49.65771336420223,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 107.0,
-            "plantHealth": 64.4142942436317,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.90197560953947
+            "plantHealth": 51.243759511012286,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 108.0,
-            "plantHealth": 57.797383094865424,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.33548384509973,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 109.0,
-            "plantHealth": 48.25880665962707,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.86937399383702
+            "plantHealth": 44.70756335451779,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 110.0,
-            "plantHealth": 50.13496133403306,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.79632238147682
+            "plantHealth": 54.45656900959021,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 111.0,
-            "plantHealth": 47.910366284520094,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.61074929955752
+            "plantHealth": 47.444105203225135,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 112.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.05977908323381,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 113.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.17791111290767
+            "plantHealth": 45.07797713649988,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 114.0,
-            "plantHealth": 44.06379442126017,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.155045732670985
+            "plantHealth": 43.987041629657725,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 115.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.09601274999834
+            "plantHealth": 51.882508105063806,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 116.0,
-            "plantHealth": 61.37470407000638,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.52229130325803
+            "plantHealth": 52.92731757929731,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 117.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.99656685233093,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 118.0,
-            "plantHealth": 55.20666683573191,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 56.78470266521618,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 119.0,
-            "plantHealth": 65.78564461867111,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.95855585383957
+            "plantHealth": 61.18300213442646,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 120.0,
-            "plantHealth": 44.804730455254685,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.59850909783866
+            "plantHealth": 53.77127544808146,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 121.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.26847443249329
+            "plantHealth": 51.776945906019485,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 122.0,
-            "plantHealth": 51.98521349001723,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.72845202634545
+            "plantHealth": 46.57416060556423,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 123.0,
-            "plantHealth": 55.859899920665015,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.77810277123962
+            "plantHealth": 47.34811412036643,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 124.0,
-            "plantHealth": 69.3424577583294,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.382166824939574
+            "plantHealth": 51.727452453841735,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 125.0,
-            "plantHealth": 50.22933151864484,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.41908184038118
+            "plantHealth": 53.567363639703366,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 126.0,
-            "plantHealth": 65.42168104603196,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.82796582104803
+            "plantHealth": 54.43141104945485,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 127.0,
-            "plantHealth": 60.748085147315415,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 55.21330146951047,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 128.0,
-            "plantHealth": 59.16938882981769,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.210834533524455
+            "plantHealth": 49.81131915079492,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 129.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.65428385065907
+            "plantHealth": 52.234159618951594,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 130.0,
-            "plantHealth": 55.918837697843834,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 43.31866532829379,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 131.0,
-            "plantHealth": 56.85366466522391,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.164606286141506
+            "plantHealth": 49.93849860656384,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 132.0,
-            "plantHealth": 65.56389862376966,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 46.185563343088816,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 133.0,
-            "plantHealth": 42.88596258884677,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.62060273107792
+            "plantHealth": 55.91314217022843,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 134.0,
-            "plantHealth": 52.76396185954295,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.58178399407709
+            "plantHealth": 48.16933792868567,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 135.0,
-            "plantHealth": 49.63637369694315,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.91131869579097
+            "plantHealth": 47.13253548158892,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 136.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.52384006816733
+            "plantHealth": 59.628015087729494,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 137.0,
-            "plantHealth": 65.3328942882148,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.611047290107194
+            "plantHealth": 40.53599781277437,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 138.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.0600915725944
+            "plantHealth": 46.37455186850493,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 139.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.3581590807193
+            "plantHealth": 51.38843482671645,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 140.0,
-            "plantHealth": 59.0694913175726,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.2677020293635,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 141.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.024055986320775
+            "plantHealth": 54.124906803811506,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 142.0,
-            "plantHealth": 61.28302747900857,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.97837841255242
+            "plantHealth": 42.29561832433238,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 143.0,
-            "plantHealth": 56.464925240985565,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.62142398924831
+            "plantHealth": 64.34932809327589,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 144.0,
-            "plantHealth": 40.04427444070403,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 65.98574942921661
+            "plantHealth": 44.315192739099516,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 145.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 50.07264543937116,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 146.0,
-            "plantHealth": 44.880473219207644,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.39523273017201
+            "plantHealth": 51.640306813457876,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 147.0,
-            "plantHealth": 52.021558513251136,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.094589021422735
+            "plantHealth": 48.08453455003356,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 148.0,
-            "plantHealth": 63.06267127109836,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.29745190097478,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 149.0,
-            "plantHealth": 51.44069396109884,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.89205604098417
+            "plantHealth": 52.58755133116757,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 150.0,
-            "plantHealth": 62.6377489805547,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.67271706253558
+            "plantHealth": 42.93982190016685,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 151.0,
-            "plantHealth": 64.46190550325987,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.56264724123012
+            "plantHealth": 51.56839749419653,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 152.0,
-            "plantHealth": 51.972617726984495,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.27991958841994
+            "plantHealth": 49.42778793538074,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 153.0,
-            "plantHealth": 48.9107611719152,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.41321545878423
+            "plantHealth": 59.915613117106844,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 154.0,
-            "plantHealth": 50.95704905768879,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.83521379732821
+            "plantHealth": 48.50504175991592,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 155.0,
-            "plantHealth": 52.57059889191436,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.955678654127055
+            "plantHealth": 43.250251835286534,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 156.0,
-            "plantHealth": 69.9858840149937,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.724533915774295
+            "plantHealth": 48.13888927634654,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 157.0,
-            "plantHealth": 50.79578866123256,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.788609469526406
+            "plantHealth": 30.779251108287834,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 158.0,
-            "plantHealth": 61.629100826489065,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.89758884047224,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 159.0,
-            "plantHealth": 45.730478627564516,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.89491387681749
+            "plantHealth": 50.331923706117436,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 160.0,
-            "plantHealth": 47.036403081252274,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.00451215370372
+            "plantHealth": 50.96470757496712,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 161.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.67469323994203
+            "plantHealth": 48.840027842765124,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 162.0,
-            "plantHealth": 44.620951777717636,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 56.69691396520416
+            "plantHealth": 47.33345888873326,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 163.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.027702443245985
+            "plantHealth": 44.76025958575391,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 164.0,
-            "plantHealth": 61.73675000356697,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.94790327618363
+            "plantHealth": 52.60440279585304,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 165.0,
-            "plantHealth": 62.907246301574965,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.28298570605282,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 166.0,
-            "plantHealth": 69.66191484491878,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.88396765632667
+            "plantHealth": 58.68156601161959,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 167.0,
-            "plantHealth": 55.68369428024374,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 56.428692164360896
+            "plantHealth": 41.84169571265051,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 168.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 67.75560775298541
+            "plantHealth": 48.60487250397433,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 169.0,
-            "plantHealth": 49.95419910396319,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 49.00186851023683,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 170.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.20966341024643
+            "plantHealth": 51.194679029211834,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 171.0,
-            "plantHealth": 51.354343427580915,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.47785863452357
+            "plantHealth": 47.11604327012505,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 172.0,
-            "plantHealth": 59.915728940509275,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.246391843393354,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 173.0,
-            "plantHealth": 57.34350206215849,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.21111433098519
+            "plantHealth": 47.07753719390987,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 174.0,
-            "plantHealth": 57.33279606922139,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.86361509687037
+            "plantHealth": 40.12691865564996,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 175.0,
-            "plantHealth": 56.784418533582986,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.65956736408279
+            "plantHealth": 47.77476438327508,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 176.0,
-            "plantHealth": 54.791863078876645,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.315637915176474,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 177.0,
-            "plantHealth": 40.19451891439075,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.1366976194267
+            "plantHealth": 55.951844999520546,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 178.0,
-            "plantHealth": 42.62489492962572,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.21760179700367
+            "plantHealth": 60.601156906726104,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 179.0,
-            "plantHealth": 53.37749557561607,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.65155218696326,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 180.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.63090223514363,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 181.0,
-            "plantHealth": 43.382796158678254,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 46.21902571779111,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 182.0,
-            "plantHealth": 59.16958947904871,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.186570398718004
+            "plantHealth": 55.61296967836206,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 183.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.255604790834916
+            "plantHealth": 51.90495031275368,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 184.0,
-            "plantHealth": 49.39735293598055,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.593841171700355
+            "plantHealth": 52.57439414842109,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 185.0,
-            "plantHealth": 61.17662542889085,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.662874995166874
+            "plantHealth": 52.75997707266846,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 186.0,
-            "plantHealth": 50.096845142288174,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.39245626431682
+            "plantHealth": 49.88191029446856,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 187.0,
-            "plantHealth": 40.54655960501433,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.56771572755239
+            "plantHealth": 47.833932418418236,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 188.0,
-            "plantHealth": 54.68403143133929,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.07094465293984
+            "plantHealth": 44.46855777674791,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 189.0,
-            "plantHealth": 60.80633458766414,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 50.5399085526529,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 190.0,
-            "plantHealth": 68.14299385005906,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.45801862220314
+            "plantHealth": 55.74828833672854,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 191.0,
-            "plantHealth": 53.259669606510315,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.37857271026927
+            "plantHealth": 43.30011696344775,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 192.0,
-            "plantHealth": 44.806374264538576,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 52.80793006798407,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 193.0,
-            "plantHealth": 42.21507357849485,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.582928592044546
+            "plantHealth": 48.71059373891117,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 194.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.48382448278073
+            "plantHealth": 47.10165927626485,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 195.0,
-            "plantHealth": 43.595757553073,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.35317770450278
+            "plantHealth": 54.17385077988356,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 196.0,
-            "plantHealth": 59.11284924383175,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.91123390007301,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 197.0,
-            "plantHealth": 54.39804210525057,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.26034226496567
+            "plantHealth": 49.98219616563749,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 198.0,
-            "plantHealth": 62.42461550553313,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.74376450856467
+            "plantHealth": 51.12645764650766,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 199.0,
-            "plantHealth": 53.353828382488814,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.62905113796397
+            "plantHealth": 53.88067792763511,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 200.0,
-            "plantHealth": 46.20445311135611,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.44842562543498
+            "plantHealth": 47.4037076177104,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 201.0,
-            "plantHealth": 45.197032724329105,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.80191014621549
+            "plantHealth": 44.95675864313718,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 202.0,
-            "plantHealth": 49.592659518418834,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.65397085499984
+            "plantHealth": 43.51437016062835,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 203.0,
-            "plantHealth": 49.989657172643355,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.79557613542179
+            "plantHealth": 52.3393561114181,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 204.0,
-            "plantHealth": 61.35090800122234,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.654664242963406
+            "plantHealth": 52.77875865535531,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 205.0,
-            "plantHealth": 47.12272997385493,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 44.6038856449608,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 206.0,
-            "plantHealth": 65.46203881076335,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.73122386762322
+            "plantHealth": 45.70905225634961,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 207.0,
-            "plantHealth": 43.77985917179261,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.65282320058323
+            "plantHealth": 41.273473376791486,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 208.0,
-            "plantHealth": 53.80821428199731,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.64272191172588
+            "plantHealth": 50.978244557715655,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 209.0,
-            "plantHealth": 57.67663575373325,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.83241930182723
+            "plantHealth": 47.38859082480462,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 210.0,
-            "plantHealth": 44.27459420971052,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 37.72352409786119,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 211.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.48766673563727
+            "plantHealth": 55.15245110619617,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 212.0,
-            "plantHealth": 58.888039218810995,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.77355691200346
+            "plantHealth": 52.52709856615726,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 213.0,
-            "plantHealth": 57.55227564503086,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.00312977749984
+            "plantHealth": 47.052703192780584,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 214.0,
-            "plantHealth": 64.60960049809671,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.94636799160208
+            "plantHealth": 45.55981383515489,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 215.0,
-            "plantHealth": 51.53465144301738,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.72504308608117
+            "plantHealth": 54.12096167590802,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 216.0,
-            "plantHealth": 48.38366665654853,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 49.7406566643919,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 217.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 51.44775382118126,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 218.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.094980929202634
+            "plantHealth": 54.07293728108226,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 219.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.45575471771629
+            "plantHealth": 48.799364538156155,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 220.0,
-            "plantHealth": 64.35496889656947,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 50.09584936004688,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 221.0,
-            "plantHealth": 48.68119023104155,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.19389491202034
+            "plantHealth": 43.56819970915126,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 222.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.18760237180446
+            "plantHealth": 51.842186549716864,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 223.0,
-            "plantHealth": 50.25255245175038,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.16264475587001
+            "plantHealth": 55.71530496223534,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 224.0,
-            "plantHealth": 54.59465513964551,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.82288091464144
+            "plantHealth": 58.03548530089037,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 225.0,
-            "plantHealth": 41.99699094525759,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.70162754739644
+            "plantHealth": 52.09160602005578,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 226.0,
-            "plantHealth": 46.42589726054527,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.6200892836399
+            "plantHealth": 51.42132612176907,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 227.0,
-            "plantHealth": 58.27144514175193,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.41939252325805
+            "plantHealth": 53.549557293233235,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 228.0,
-            "plantHealth": 63.314386685246305,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.99294782551593
+            "plantHealth": 49.90234709545858,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 229.0,
-            "plantHealth": 56.12822711307816,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 44.66406973130265,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 230.0,
-            "plantHealth": 58.47811603810485,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.489125217404876
+            "plantHealth": 44.86131317135701,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 231.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.12971420693691
+            "plantHealth": 49.53862897358642,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 232.0,
-            "plantHealth": 45.43345491072177,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.418459902682066
+            "plantHealth": 48.67132697249607,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 233.0,
-            "plantHealth": 53.19978577265672,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.59614690062744,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 234.0,
-            "plantHealth": 46.48136950337006,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.343810286655234
+            "plantHealth": 40.93575008868675,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 235.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.46895340630775
+            "plantHealth": 59.57288668999074,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 236.0,
-            "plantHealth": 59.903169176779016,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 56.84892674490092
+            "plantHealth": 44.250623657372515,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 237.0,
-            "plantHealth": 65.73104980829001,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.47809599443418,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 238.0,
-            "plantHealth": 67.10529250242692,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 41.68138123912931,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 239.0,
-            "plantHealth": 43.36756282089108,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 50.28391541899564,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 240.0,
-            "plantHealth": 43.5310215561163,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 45.65034187886674,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 241.0,
-            "plantHealth": 47.687666582396744,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 45.051095409761686,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 242.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.630856908906786
+            "plantHealth": 49.91752578063773,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 243.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.96570011427754
+            "plantHealth": 63.28472943107909,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 244.0,
-            "plantHealth": 54.88184393695747,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.91639801648833
+            "plantHealth": 49.82663875795467,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 245.0,
-            "plantHealth": 48.127237427956345,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.307764506791884
+            "plantHealth": 45.22557406336775,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 246.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.72002313659415
+            "plantHealth": 47.064549065867105,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 247.0,
-            "plantHealth": 56.99734547789711,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.86513133459562
+            "plantHealth": 51.63858752072636,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 248.0,
-            "plantHealth": 54.238570211113455,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.47850342795424
+            "plantHealth": 56.59792030435359,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 249.0,
-            "plantHealth": 43.38805854926051,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 46.86667703112283,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 250.0,
-            "plantHealth": 50.76098072377705,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.444676003555834
+            "plantHealth": 55.894152610789845,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 251.0,
-            "plantHealth": 50.29857940034535,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.14028310048117
+            "plantHealth": 41.592658910065026,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 252.0,
-            "plantHealth": 59.15529785284359,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.48811990443083
+            "plantHealth": 51.45228991970451,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 253.0,
-            "plantHealth": 54.47210218848335,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.95042204956081,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 254.0,
-            "plantHealth": 53.431924802352455,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.494675127877116
+            "plantHealth": 51.09121934858722,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 255.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 43.39171843954226,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 256.0,
-            "plantHealth": 49.338455317288826,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.34616922715856,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 257.0,
-            "plantHealth": 60.13084254596741,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.17010429981959
+            "plantHealth": 47.68160828242788,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 258.0,
-            "plantHealth": 44.213448634291424,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.30134688473672
+            "plantHealth": 51.35031446638167,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 259.0,
-            "plantHealth": 48.69270754670843,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.229988665158714
+            "plantHealth": 44.136607702037914,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 260.0,
-            "plantHealth": 63.663189545305386,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.461540586856174
+            "plantHealth": 48.59207518081361,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 261.0,
-            "plantHealth": 62.31655049207027,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 45.56392625156151,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 262.0,
-            "plantHealth": 66.94608868320934,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 50.3341175054808,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 263.0,
-            "plantHealth": 50.590154439144904,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 51.517013250190175,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 264.0,
-            "plantHealth": 48.443778213949955,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.2137643861064
+            "plantHealth": 56.446024558843845,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 265.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 67.50035859383689
+            "plantHealth": 53.590929564636,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 266.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.94101852329675
+            "plantHealth": 42.088347081677725,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 267.0,
-            "plantHealth": 44.99457259653639,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.11660290542583
+            "plantHealth": 48.34076782338337,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 268.0,
-            "plantHealth": 50.163440046493484,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.94205106772065,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 269.0,
-            "plantHealth": 48.73336234801111,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.671881862853425
+            "plantHealth": 53.32423496337033,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 270.0,
-            "plantHealth": 63.954394997046094,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.33793372477973
+            "plantHealth": 45.09183720214118,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 271.0,
-            "plantHealth": 63.63339086794822,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.53428624459044,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 272.0,
-            "plantHealth": 46.54409905296481,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.918733231164616,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 273.0,
-            "plantHealth": 51.59756020403796,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 53.06942972120816,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 274.0,
-            "plantHealth": 51.17140238543251,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 46.07038182884171,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 275.0,
-            "plantHealth": 46.87442736914447,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 69.5174180657388
+            "plantHealth": 53.094187299144096,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 276.0,
-            "plantHealth": 52.52220032131132,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.887119333724414
+            "plantHealth": 55.16757510815223,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 277.0,
-            "plantHealth": 53.005565825867066,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 45.307155427272384,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 278.0,
-            "plantHealth": 54.38958247659916,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.91443728577771
+            "plantHealth": 51.29735594134069,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 279.0,
-            "plantHealth": 43.23460877975971,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 44.84263110411577,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 280.0,
-            "plantHealth": 40.62831543777776,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.765046600893285
+            "plantHealth": 51.07363746630905,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 281.0,
-            "plantHealth": 61.965664686798675,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 44.98003423367364,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 282.0,
-            "plantHealth": 46.12213600608012,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 69.45378471597076
+            "plantHealth": 49.0428420790439,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 283.0,
-            "plantHealth": 42.64492671885338,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.383060077293514
+            "plantHealth": 55.03400156312808,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 284.0,
-            "plantHealth": 69.00125623670463,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.654013642731094
+            "plantHealth": 46.03591228495836,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 285.0,
-            "plantHealth": 69.69762372746686,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 50.28287935558,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 286.0,
-            "plantHealth": 68.57853195367589,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.6940930425969
+            "plantHealth": 54.268441329140934,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 287.0,
-            "plantHealth": 58.663086532058664,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 52.784939108458445,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 288.0,
-            "plantHealth": 40.020329118147544,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 68.09361888791092
+            "plantHealth": 60.30168152632572,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 289.0,
-            "plantHealth": 40.62208808522099,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 56.33124005213692,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 290.0,
-            "plantHealth": 41.34782115004634,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.02918534803288
+            "plantHealth": 43.5713480450047,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 291.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.24773094892927
+            "plantHealth": 59.69337034621566,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 292.0,
-            "plantHealth": 46.57447804629258,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.613028036788506,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 293.0,
-            "plantHealth": 44.86955039958796,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.255799981321324
+            "plantHealth": 49.58340823793918,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 294.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.34767327901546
+            "plantHealth": 48.916252095155144,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 295.0,
-            "plantHealth": 53.934724069113315,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.793910604940976,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 296.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 57.21109570104227,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 297.0,
-            "plantHealth": 42.11224952534187,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.481346188313175
+            "plantHealth": 55.2662021633514,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 298.0,
-            "plantHealth": 48.69674769674992,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.90103161848159
+            "plantHealth": 56.59361973181809,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 299.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.4426205290513
+            "plantHealth": 48.840376927394004,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 300.0,
-            "plantHealth": 50.55268589026865,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.419836655323714
+            "plantHealth": 52.3571905069236,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 301.0,
-            "plantHealth": 45.26993266517131,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.90850427130966,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 302.0,
-            "plantHealth": 60.99990845056219,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.59436615714506
+            "plantHealth": 54.7374452162524,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 303.0,
-            "plantHealth": 46.55489154890686,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.67392074572257,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 304.0,
-            "plantHealth": 49.46991814931885,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.404383979647655
+            "plantHealth": 46.36026349905711,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 305.0,
-            "plantHealth": 66.48943775316187,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 61.609268349454084,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 306.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 49.84926074499031,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 307.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.650752434865296
+            "plantHealth": 47.87545694226053,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 308.0,
-            "plantHealth": 61.25484821226277,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.00441379575378
+            "plantHealth": 53.96217881676796,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 309.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.80614095706481
+            "plantHealth": 46.54664717842094,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 310.0,
-            "plantHealth": 68.5494345940404,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.7191376854678
+            "plantHealth": 50.403344160825554,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 311.0,
-            "plantHealth": 62.647591867571656,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 52.916862819457435,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 312.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 49.81280635451884,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 313.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 47.11015923344859,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 314.0,
-            "plantHealth": 43.9879617667073,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.06976108602675
+            "plantHealth": 55.10614650162438,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 315.0,
-            "plantHealth": 49.728881775432974,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.45545863201657
+            "plantHealth": 49.26616807109205,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 316.0,
-            "plantHealth": 49.46026701010156,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 46.83283530135355,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 317.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 56.31337674881845
+            "plantHealth": 47.57395701258826,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 318.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.69691646242512
+            "plantHealth": 46.27564270717494,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 319.0,
-            "plantHealth": 56.08769820946304,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.55153291950658
+            "plantHealth": 57.173953121705225,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 320.0,
-            "plantHealth": 40.52429212585249,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.99749718980776,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 321.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 48.20214980753496,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 322.0,
-            "plantHealth": 49.862951955920835,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.14514219150327
+            "plantHealth": 47.57292515054468,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 323.0,
-            "plantHealth": 47.890627566315274,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 68.24318604696872
+            "plantHealth": 52.15258219156892,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 324.0,
-            "plantHealth": 60.160571861922094,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 55.608817890746046,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 325.0,
-            "plantHealth": 52.57471163270361,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.40658865853011
+            "plantHealth": 43.50525235476945,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 326.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 42.42298888221779,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 327.0,
-            "plantHealth": 48.12262445463775,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.406580941298415
+            "plantHealth": 54.9097051735521,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 328.0,
-            "plantHealth": 57.316371103998904,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.32482283679103
+            "plantHealth": 48.884525595675775,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 329.0,
-            "plantHealth": 65.20932210672987,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.376127666630154,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 330.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 46.57911002895208,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 331.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 69.86986050283926
+            "plantHealth": 47.78888701145928,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 332.0,
-            "plantHealth": 68.97689634049974,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.26699648790721
+            "plantHealth": 54.88798189426672,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 333.0,
-            "plantHealth": 68.56842368599985,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.641261655099996
+            "plantHealth": 41.60803599846355,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 334.0,
-            "plantHealth": 66.34235642759265,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.343930944114256
+            "plantHealth": 55.3715294201532,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 335.0,
-            "plantHealth": 57.13448910205967,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 50.882252886811344,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 336.0,
-            "plantHealth": 41.03390158441985,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 44.72346079963299,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 337.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.69612881567858
+            "plantHealth": 53.095782054560644,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 338.0,
-            "plantHealth": 48.03964130601174,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 68.76756357559745
+            "plantHealth": 55.09266253810778,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 339.0,
-            "plantHealth": 59.3878260486466,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.69414865795282
+            "plantHealth": 51.34890246402845,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 340.0,
-            "plantHealth": 55.97763423879981,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.058174724355
+            "plantHealth": 48.61397906817389,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 341.0,
-            "plantHealth": 48.57495352905664,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.317099247807064
+            "plantHealth": 48.028011771608554,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 342.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 44.96235700836891,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 343.0,
-            "plantHealth": 64.17107928938418,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.14690730175531
+            "plantHealth": 44.38374479905863,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 344.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 59.23518665851316,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 345.0,
-            "plantHealth": 42.404352850415165,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.89263960128757
+            "plantHealth": 58.81160896431073,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 346.0,
-            "plantHealth": 46.429092516918196,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.46394401803522
+            "plantHealth": 49.01938579689886,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 347.0,
-            "plantHealth": 42.15762172012856,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.10500260194937
+            "plantHealth": 47.392345927464625,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 348.0,
-            "plantHealth": 58.54100781080464,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 57.12123275136137,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 349.0,
-            "plantHealth": 44.12150864396878,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.21682717211698,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 350.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 45.36290632436663,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 351.0,
-            "plantHealth": 48.41094837268288,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.57628109104388
+            "plantHealth": 54.19810601597001,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 352.0,
-            "plantHealth": 63.59022895576744,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.712579001817296
+            "plantHealth": 48.92396274810059,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 353.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.51275216112707
+            "plantHealth": 48.6222713372125,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 354.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 51.1808149214196,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 355.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 51.291128591549175,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 356.0,
-            "plantHealth": 63.70108686203912,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.27354311285603
+            "plantHealth": 56.925651423976085,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 357.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.12729658325489
+            "plantHealth": 49.75032719931142,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 358.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.848011894613926
+            "plantHealth": 49.24485583058734,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 359.0,
-            "plantHealth": 57.98950758839596,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 69.30167887804413
+            "plantHealth": 55.82270297223408,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 360.0,
-            "plantHealth": 45.35963699562841,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 69.07226501199965
+            "plantHealth": 49.45557222313437,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 361.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.84296500111257
+            "plantHealth": 46.8253930622574,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 362.0,
-            "plantHealth": 52.79151858866363,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.577356230054946
+            "plantHealth": 54.55326013221536,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 363.0,
-            "plantHealth": 57.480130139706,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.76726376264477,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 364.0,
-            "plantHealth": 54.840439037461536,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.54091488970665
+            "plantHealth": 47.70210470838833,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 365.0,
-            "plantHealth": 57.71696034411721,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 67.62180764544826
+            "plantHealth": 44.56560271031469,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 366.0,
-            "plantHealth": 68.050802267119,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 67.8344836077578
+            "plantHealth": 47.24199647128135,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 367.0,
-            "plantHealth": 55.04629429751562,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.17518486177491
+            "plantHealth": 56.21508637187588,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 368.0,
-            "plantHealth": 44.76155097162157,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 43.338143382220714,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 369.0,
-            "plantHealth": 52.337765260710434,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 49.698151800323565,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 370.0,
-            "plantHealth": 45.052870690947444,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.00661928980069,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 371.0,
-            "plantHealth": 49.51368030633726,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 43.842160267793766,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 372.0,
-            "plantHealth": 61.26883054236302,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.86936144145289,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 373.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.33926845890579
+            "plantHealth": 51.433956978204684,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 374.0,
-            "plantHealth": 62.637568246103655,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.88212211243711
+            "plantHealth": 47.29338395414341,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 375.0,
-            "plantHealth": 40.16743153777892,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 56.36013621975494
+            "plantHealth": 48.229729798573565,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 376.0,
-            "plantHealth": 58.488885932700526,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.233275852946655
+            "plantHealth": 54.83812281939408,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 377.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.5707210013892
+            "plantHealth": 52.457329699619045,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 378.0,
-            "plantHealth": 43.08773096790637,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 69.09975514593029
+            "plantHealth": 47.86665473288641,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 379.0,
-            "plantHealth": 45.81866882508085,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 55.76355102653038,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 380.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 52.392268202194145,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 381.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 56.43803530590874
+            "plantHealth": 47.49937229800137,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 382.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.41746330775246
+            "plantHealth": 54.66379258609672,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 383.0,
-            "plantHealth": 58.22571705727846,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 48.665359197560136,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 384.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.39481137837683
+            "plantHealth": 53.90375869830583,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 385.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.12981274180609
+            "plantHealth": 51.32687618883962,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 386.0,
-            "plantHealth": 56.748693751324375,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.02959567540348
+            "plantHealth": 45.38178723519553,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 387.0,
-            "plantHealth": 65.7470471001574,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.092977821058675
+            "plantHealth": 45.11606886040133,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 388.0,
-            "plantHealth": 58.34630067433299,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.32233912517594
+            "plantHealth": 43.7272889161367,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 389.0,
-            "plantHealth": 63.87883481195615,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 48.22968730401901,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 390.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 50.89939896339928,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 391.0,
-            "plantHealth": 54.14861503804805,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.53112366760512
+            "plantHealth": 47.51680470402239,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 392.0,
-            "plantHealth": 46.28121112366949,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 54.27293673595089,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 393.0,
-            "plantHealth": 59.75224637205446,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 48.06136340426016,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 394.0,
-            "plantHealth": 48.195427795144205,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.49918595412207,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 395.0,
-            "plantHealth": 58.041092090750496,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.45604168879531
+            "plantHealth": 56.05702258124897,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 396.0,
-            "plantHealth": 66.5505135486107,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.60998724901386
+            "plantHealth": 49.64868211910184,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 397.0,
-            "plantHealth": 45.26950858407096,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.759032097983834
+            "plantHealth": 50.1068167832374,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 398.0,
-            "plantHealth": 54.28536637067649,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.110816274950125
+            "plantHealth": 50.31208557563442,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 399.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.362608363662986
+            "plantHealth": 50.72241346208069,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 400.0,
-            "plantHealth": 49.32414023024738,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.26339442324276
+            "plantHealth": 44.354878449116384,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 401.0,
-            "plantHealth": 67.77024891366742,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.335084635934784
+            "plantHealth": 45.809637238597745,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 402.0,
-            "plantHealth": 43.65622638031394,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 52.59504209804638,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 403.0,
-            "plantHealth": 50.73167632000487,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.7344415622405
+            "plantHealth": 46.10472216025393,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 404.0,
-            "plantHealth": 65.83996349770379,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 69.20554803957604
+            "plantHealth": 49.93952782503995,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 405.0,
-            "plantHealth": 67.79911701934884,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.634170448494565
+            "plantHealth": 56.31133274848708,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 406.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.968661624771514
+            "plantHealth": 50.18455404368565,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 407.0,
-            "plantHealth": 48.43823686035405,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 49.73652590213594,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 408.0,
-            "plantHealth": 41.60361722333909,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 65.62398151224465
+            "plantHealth": 48.28148776458525,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 409.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.68984616536027
+            "plantHealth": 52.78721994682467,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 410.0,
-            "plantHealth": 54.731112716656526,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.49584265979884
+            "plantHealth": 58.0281398036284,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 411.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 45.17660328152289,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 412.0,
-            "plantHealth": 55.29479261804755,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.819396102560546
+            "plantHealth": 49.781148153260254,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 413.0,
-            "plantHealth": 55.713249775442705,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.64584295576216
+            "plantHealth": 50.816119901252705,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 414.0,
-            "plantHealth": 66.00107495912476,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 45.749364784777065,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 415.0,
-            "plantHealth": 56.459034639321374,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.25273712530617
+            "plantHealth": 43.400259999381355,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 416.0,
-            "plantHealth": 54.22687905703919,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 45.600395766882656,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 417.0,
-            "plantHealth": 63.556132040641316,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 68.56557310037095
+            "plantHealth": 52.466145693776696,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 418.0,
-            "plantHealth": 41.330614115849215,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.332338216501626
+            "plantHealth": 48.708362576798066,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 419.0,
-            "plantHealth": 67.66179996640633,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.676233950007344
+            "plantHealth": 47.44343773107663,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 420.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.11091506905298
+            "plantHealth": 51.80379453702652,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 421.0,
-            "plantHealth": 40.3836868848708,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.846477475081116
+            "plantHealth": 49.71526401930508,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 422.0,
-            "plantHealth": 56.115595698984166,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.64844714371009
+            "plantHealth": 53.14535260417892,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 423.0,
-            "plantHealth": 43.180656212937016,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.54957741380144
+            "plantHealth": 56.01150418539314,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 424.0,
-            "plantHealth": 42.80413104152238,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.29039670749495
+            "plantHealth": 42.12466359903812,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 425.0,
-            "plantHealth": 59.09878046609662,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.22424621959916,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 426.0,
-            "plantHealth": 53.435120981236864,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.6118276243412
+            "plantHealth": 48.37400670355945,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 427.0,
-            "plantHealth": 49.70868639404129,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 51.413832448073514,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 428.0,
-            "plantHealth": 58.184113344550845,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 56.091121123089046,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 429.0,
-            "plantHealth": 68.77812083829453,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.27334568863963
+            "plantHealth": 44.78768137616025,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 430.0,
-            "plantHealth": 67.7021075354419,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.2511190810218
+            "plantHealth": 52.25322166372834,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 431.0,
-            "plantHealth": 46.4468141440952,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 67.4101773509578
+            "plantHealth": 46.297727675010414,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 432.0,
-            "plantHealth": 41.135320215230664,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 67.0926948458421
+            "plantHealth": 49.86220802429763,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 433.0,
-            "plantHealth": 46.095017451574634,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.108724691055826
+            "plantHealth": 47.19866834383157,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 434.0,
-            "plantHealth": 45.19093654344939,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.92224954344325
+            "plantHealth": 47.26827589233342,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 435.0,
-            "plantHealth": 69.21509301781937,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.090905121533474,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 436.0,
-            "plantHealth": 63.44301480720769,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.01075742524593
+            "plantHealth": 56.34593577756226,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 437.0,
-            "plantHealth": 57.043618975506405,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.4110685284396
+            "plantHealth": 50.7938227096602,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 438.0,
-            "plantHealth": 57.832364388443025,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.85371209147601
+            "plantHealth": 43.04551453433393,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 439.0,
-            "plantHealth": 58.23168633203632,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.90390740954764
+            "plantHealth": 52.97781724828857,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 440.0,
-            "plantHealth": 52.46595769534806,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.6773090729065,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 441.0,
-            "plantHealth": 63.16989823703642,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 47.233243943506125,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 442.0,
-            "plantHealth": 43.050367978233155,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.4699517645513
+            "plantHealth": 47.33372219415665,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 443.0,
-            "plantHealth": 58.704711240067,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.69639205160155
+            "plantHealth": 40.7569522434914,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 444.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.4626520926622
+            "plantHealth": 56.83136003571796,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 445.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.00277253517387
+            "plantHealth": 48.816968266446466,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 446.0,
-            "plantHealth": 54.178091219457954,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.25408715452267
+            "plantHealth": 50.44527152097784,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 447.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 56.84560431893445
+            "plantHealth": 44.98184290085369,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 448.0,
-            "plantHealth": 45.28792993926032,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 51.61962951263173,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 449.0,
-            "plantHealth": 53.42741290739937,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.250723335444206
+            "plantHealth": 42.76505411837396,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 450.0,
-            "plantHealth": 53.7198263650062,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.83302894441923
+            "plantHealth": 45.843517123954314,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 451.0,
-            "plantHealth": 53.536028039462806,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 49.69172938446512,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 452.0,
-            "plantHealth": 63.3881901291296,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.8831386340647
+            "plantHealth": 43.026221532318615,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 453.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.66764251558658
+            "plantHealth": 45.70086772802416,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 454.0,
-            "plantHealth": 61.85586832047601,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.61345707520282
+            "plantHealth": 51.065821671944725,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 455.0,
-            "plantHealth": 41.43840182700906,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.960597368447054
+            "plantHealth": 51.83820557076593,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 456.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.606533691826925
+            "plantHealth": 54.79809018518395,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 457.0,
-            "plantHealth": 46.646296283557724,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.33559564830581
+            "plantHealth": 58.691542138950865,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 458.0,
-            "plantHealth": 41.357101284382196,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.41312279677092
+            "plantHealth": 48.72481625182885,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 459.0,
-            "plantHealth": 67.337323631564,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.60151574695671,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 460.0,
-            "plantHealth": 56.53595334458247,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.553443672618826
+            "plantHealth": 47.753293588124876,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 461.0,
-            "plantHealth": 63.98994292221194,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.838725015805295
+            "plantHealth": 47.2655367946183,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 462.0,
-            "plantHealth": 48.901065372408894,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 57.976346942598404
+            "plantHealth": 49.265256607947926,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 463.0,
-            "plantHealth": 52.302916397379086,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.61287446973893
+            "plantHealth": 57.74423946614097,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 464.0,
-            "plantHealth": 58.848457227325085,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 43.28030852102158,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 465.0,
-            "plantHealth": 69.48087529094126,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 58.14310768396059,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 466.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.784543072774255
+            "plantHealth": 46.87576185389764,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 467.0,
-            "plantHealth": 51.92351691362657,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.141623723548555
+            "plantHealth": 46.43620085143891,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 468.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.92408472518737
+            "plantHealth": 44.77257124704647,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 469.0,
-            "plantHealth": 41.109838864163436,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 57.333533948589555,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 470.0,
-            "plantHealth": 49.9656607876626,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.78730603683583
+            "plantHealth": 50.68914910277973,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 471.0,
-            "plantHealth": 44.68295936803969,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.13689771760919
+            "plantHealth": 47.65342081708728,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 472.0,
-            "plantHealth": 43.81607299628803,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.98305165916696
+            "plantHealth": 54.556813706319545,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 473.0,
-            "plantHealth": 62.17209706037896,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.37243243794732
+            "plantHealth": 43.61326262466307,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 474.0,
-            "plantHealth": 57.65787450600375,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.64123565650376
+            "plantHealth": 46.96621367575383,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 475.0,
-            "plantHealth": 51.491731897689846,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 53.09989604662946,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 476.0,
-            "plantHealth": 59.98261390866486,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 65.75571467603893
+            "plantHealth": 53.1743799917324,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 477.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.124091959541104
+            "plantHealth": 52.71686699955592,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 478.0,
-            "plantHealth": 62.78622354810097,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.57624137423919
+            "plantHealth": 44.04348255872208,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 479.0,
-            "plantHealth": 42.48352994211616,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.4715664736336
+            "plantHealth": 48.89980238886212,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 480.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.21775841447955
+            "plantHealth": 44.85251891240142,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 481.0,
-            "plantHealth": 41.63162309684834,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.34115516067743
+            "plantHealth": 55.52247484932973,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 482.0,
-            "plantHealth": 41.928032302403565,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.29444241960066
+            "plantHealth": 49.28476517872329,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 483.0,
-            "plantHealth": 69.57947912910073,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.322829115279255
+            "plantHealth": 45.09336396133048,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 484.0,
-            "plantHealth": 50.94578518756288,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.02505058498455
+            "plantHealth": 43.3452919928475,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 485.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 51.843214159328156,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 486.0,
-            "plantHealth": 48.8828720018914,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 49.058686725915344
+            "plantHealth": 48.21241485345929,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 487.0,
-            "plantHealth": 51.17105025719192,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.95696415487164
+            "plantHealth": 50.16417547787388,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 488.0,
-            "plantHealth": 56.28725047571157,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.786516371369146
+            "plantHealth": 50.98774102565848,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 489.0,
-            "plantHealth": 65.64909128297782,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.47904325929439
+            "plantHealth": 56.90740022337992,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 490.0,
-            "plantHealth": 47.49190177957649,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.80754125101301
+            "plantHealth": 48.35696323576447,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 491.0,
-            "plantHealth": 43.50660291277553,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 68.89432429826635
+            "plantHealth": 51.61119180981587,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 492.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.527103541775034
+            "plantHealth": 58.67129608526932,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 493.0,
-            "plantHealth": 42.98453781060533,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.79181643332655
+            "plantHealth": 70.0,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 494.0,
-            "plantHealth": 56.41466652021775,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.45989031237583
+            "plantHealth": 48.190151271209814,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 495.0,
-            "plantHealth": 48.06111247661471,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 48.882486318135065
+            "plantHealth": 53.826458414747684,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 496.0,
-            "plantHealth": 46.888635977471964,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.70196368181334
+            "plantHealth": 48.673616232288985,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 497.0,
-            "plantHealth": 54.22668250103918,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.855307861259675,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 498.0,
-            "plantHealth": 60.311358954805456,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.30497440753741
+            "plantHealth": 49.423047398866565,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 499.0,
-            "plantHealth": 42.60305552898289,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.743713190815185
+            "plantHealth": 40.616854752483896,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 500.0,
-            "plantHealth": 60.566074919261176,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 49.88128143097024,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 501.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.64277484226931
+            "plantHealth": 50.866554334388006,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 502.0,
-            "plantHealth": 57.469091731685495,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.595387630071
+            "plantHealth": 47.332984738918114,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 503.0,
-            "plantHealth": 50.810272663888796,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 51.4529173925592,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 504.0,
-            "plantHealth": 48.70492290124241,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 65.98725409560532
+            "plantHealth": 49.492756587784996,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 505.0,
-            "plantHealth": 51.06336523724563,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 40.05660795135209,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 506.0,
-            "plantHealth": 42.314965941216435,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.446811413940296
+            "plantHealth": 51.980166854868926,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 507.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.74876190572832
+            "plantHealth": 53.70641493137426,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 508.0,
-            "plantHealth": 41.12237628361892,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 69.41946594688271
+            "plantHealth": 48.28729974883159,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 509.0,
-            "plantHealth": 62.90254745210804,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.869153859085074
+            "plantHealth": 45.949705339108206,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 510.0,
-            "plantHealth": 56.708350309877545,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.397101707679276
+            "plantHealth": 56.29594902940343,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 511.0,
-            "plantHealth": 54.107926623647,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.597488057047556
+            "plantHealth": 51.100945128740726,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 512.0,
-            "plantHealth": 65.79731575642717,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.84680534101825
+            "plantHealth": 51.52828384948596,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 513.0,
-            "plantHealth": 61.66180212496806,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.59995342657696
+            "plantHealth": 47.53129678506309,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 514.0,
-            "plantHealth": 56.7241598705618,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 60.68517689480372
+            "plantHealth": 54.132052012332046,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 515.0,
-            "plantHealth": 40.76191044626022,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 67.90736145609584
+            "plantHealth": 61.1568133654884,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 516.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.96882763998009
+            "plantHealth": 48.44972938820084,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 517.0,
-            "plantHealth": 45.87347394476759,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.79274152228924
+            "plantHealth": 45.24256718163777,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 518.0,
-            "plantHealth": 65.42089056798052,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.536798770763355
+            "plantHealth": 45.33124361757194,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 519.0,
-            "plantHealth": 43.393947580873636,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.55302005381505
+            "plantHealth": 55.871023879458555,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 520.0,
-            "plantHealth": 43.50529343275027,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 42.90419480678376
+            "plantHealth": 50.424273530514654,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 521.0,
-            "plantHealth": 47.471643889420434,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 52.46273244140179,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 522.0,
-            "plantHealth": 57.682736912012636,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 68.70824123424595
+            "plantHealth": 45.85756971150554,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 523.0,
-            "plantHealth": 43.4382931329618,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.74631987189804
+            "plantHealth": 51.758472026211116,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 524.0,
-            "plantHealth": 52.6717221247992,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.72944607170841
+            "plantHealth": 57.16984724534131,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 525.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.28133372219017
+            "plantHealth": 48.258629201996115,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 526.0,
-            "plantHealth": 52.130094696366605,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 55.97060430694016
+            "plantHealth": 49.63617321778391,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 527.0,
-            "plantHealth": 57.26333143618574,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 55.349809970081694,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 528.0,
-            "plantHealth": 56.80971287011302,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.079616270549394
+            "plantHealth": 55.369716927888625,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 529.0,
-            "plantHealth": 51.28890939701283,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 46.8469015730407
+            "plantHealth": 48.80908519029453,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 530.0,
-            "plantHealth": 47.72333010711724,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.41350769768445,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 531.0,
-            "plantHealth": 61.43589421071526,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 47.655315456779846
+            "plantHealth": 49.07666372391567,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 532.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 56.79388612097884,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 533.0,
-            "plantHealth": 62.79212424549445,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 54.75831376375709
+            "plantHealth": 47.60996517663054,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 534.0,
-            "plantHealth": 63.68934661857191,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.5023862954355
+            "plantHealth": 55.158125727786064,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 535.0,
-            "plantHealth": 55.09281714536764,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.65906580711121
+            "plantHealth": 47.09214252196998,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 536.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 58.41209571996922
+            "plantHealth": 48.163304773465555,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 537.0,
-            "plantHealth": 53.124548828894504,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 66.03416191952164
+            "plantHealth": 60.431588862892525,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 538.0,
-            "plantHealth": 52.27888320100139,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.75466204677052
+            "plantHealth": 51.137748634015864,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 539.0,
-            "plantHealth": 49.9613422501734,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.54447494304056
+            "plantHealth": 45.98810060091759,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 540.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.84156707309079,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 541.0,
-            "plantHealth": 42.3295136998063,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.66504669925217
+            "plantHealth": 55.332576438878775,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 542.0,
-            "plantHealth": 63.89914386798944,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 49.79563198278454,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 543.0,
-            "plantHealth": 48.02891759249897,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.953008323203164
+            "plantHealth": 54.66713627540626,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 544.0,
-            "plantHealth": 42.06534611031968,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 44.771269923204144,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 545.0,
-            "plantHealth": 51.70754251564291,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.26173995513598
+            "plantHealth": 45.280834703834856,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 546.0,
-            "plantHealth": 51.39135107562305,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 47.66585307540541,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 547.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 65.37894791404494
+            "plantHealth": 45.04565093909125,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 548.0,
-            "plantHealth": 53.109667565137826,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 59.60873873502375
+            "plantHealth": 50.10283958523668,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 549.0,
-            "plantHealth": 69.00447045975315,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 50.3300175757019,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 550.0,
-            "plantHealth": 47.40959883142591,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.46022808043809
+            "plantHealth": 51.479733682129506,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 551.0,
-            "plantHealth": 48.23015453502746,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 45.19527525261083,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 552.0,
-            "plantHealth": 60.97325608513822,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.39690418556044
+            "plantHealth": 47.71477581458088,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 553.0,
-            "plantHealth": 53.82369644299738,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.36754844947829
+            "plantHealth": 52.43668573231735,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 554.0,
-            "plantHealth": 51.18988202171275,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 48.49468001707343,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 555.0,
-            "plantHealth": 52.62115062139644,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 51.6221711364863
+            "plantHealth": 43.92360085651044,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 556.0,
-            "plantHealth": 48.80179593638795,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 44.89993349782104,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 557.0,
-            "plantHealth": 55.56637702647484,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 50.642993869560435
+            "plantHealth": 58.93143789577945,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 558.0,
-            "plantHealth": 60.91558936299947,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 43.62229026125977
+            "plantHealth": 54.69263067626771,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 559.0,
-            "plantHealth": 49.90505106516121,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.232755269083974
+            "plantHealth": 48.494962407037704,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 560.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 53.97259577480323
+            "plantHealth": 42.81289030185133,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 561.0,
-            "plantHealth": 50.94672200630117,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 70.0
+            "plantHealth": 55.5050402938802,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 562.0,
-            "plantHealth": 50.0137199572096,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 44.75765028230418
+            "plantHealth": 52.23752593821096,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 563.0,
-            "plantHealth": 42.926059152814666,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.4580536223446
+            "plantHealth": 49.875183310884445,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 564.0,
-            "plantHealth": 69.3047410963312,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.8228189303106
+            "plantHealth": 39.95128525866938,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 565.0,
-            "plantHealth": 49.49363008565653,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 52.35509571813409
+            "plantHealth": 46.337200193590306,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 566.0,
-            "plantHealth": 68.44465350612283,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.75374782991361,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 567.0,
-            "plantHealth": 48.47467341028647,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 45.96121200700156
+            "plantHealth": 55.256947257984365,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 568.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 47.5791596855346,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 569.0,
-            "plantHealth": 45.10747412936375,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 40.0
+            "plantHealth": 53.00736169310689,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 570.0,
-            "plantHealth": 41.70833838290515,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 61.1724536435344
+            "plantHealth": 44.85305385985361,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 571.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 63.962619952956345
+            "plantHealth": 45.83596370136476,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 572.0,
-            "plantHealth": 47.966107111419056,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 62.03459862711205
+            "plantHealth": 50.94043415527342,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 573.0,
-            "plantHealth": 70.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 41.71704966617304
+            "plantHealth": 52.21630882333146,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 574.0,
-            "plantHealth": 40.0,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 64.38265365999086
+            "plantHealth": 44.7894669658888,
+            "waterAddAmount": 0.0
         },
         {
             "sectorID": 575.0,
-            "plantHealth": 49.561981781373134,
-            "waterAddAmount": 0.0,
-            "mineralHealth": 65.74589993215085
+            "plantHealth": 40.293255724118566,
+            "waterAddAmount": 0.0
         }
     ],
     "globalInfo": {
-        "timeID": 1212021.0,
-        "currentTemperature": 90.0,
-        "currentPrecipitation": 1.0,
-        "totalWaterYouHave": 3065.357343111061
+        "timeID": 1212024.0,
+        "currentTemperature": 50.0,
+        "currentPrecipitation": 0.1,
+        "totalWaterYouHave": 0.0
     }
 }
